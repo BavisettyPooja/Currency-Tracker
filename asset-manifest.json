@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Currency-Tracker/static/css/main.16a42a3b.css",
+    "main.js": "/Currency-Tracker/static/js/main.a6356110.js",
+    "index.html": "/Currency-Tracker/index.html",
+    "main.16a42a3b.css.map": "/Currency-Tracker/static/css/main.16a42a3b.css.map",
+    "main.a6356110.js.map": "/Currency-Tracker/static/js/main.a6356110.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16a42a3b.css",
+    "static/js/main.a6356110.js"
+  ]
+}
